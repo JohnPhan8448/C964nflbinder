@@ -1,0 +1,4 @@
+pandas==1.5.0
+numpy==1.23.3
+altair==4.2.0
+watermark==2.3.1
