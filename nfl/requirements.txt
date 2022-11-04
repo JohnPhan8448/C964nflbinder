@@ -38,7 +38,7 @@ nest-asyncio==1.5.1
 notebook==6.4.0
 numpy==1.21.0
 packaging==20.9
-pandas==1.2.5
+pandas
 pandocfilters==1.4.3
 parso==0.8.2
 pickleshare==0.7.5
@@ -74,18 +74,3 @@ wheel==0.36.2
 widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.1
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Capstone/requirements.txt at main · wduangoupa/Capstone · GitHub
