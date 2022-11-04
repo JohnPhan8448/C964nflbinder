@@ -15,11 +15,11 @@ ipython==7.20.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
-Jinja2==2.11.3
+Jinja2
 jsonschema==3.2.0
 jupyter-client==6.1.11
 jupyter-core==4.7.1
-jupyter-server==1.8.0
+jupyter-server
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 MarkupSafe==1.1.1
@@ -42,7 +42,7 @@ pyrsistent==0.17.3
 python-dateutil==2.8.1
 pywinpty==0.5.7
 pyzmq==22.0.3
-Send2Trash==1.5.0
+Send2Trash
 six==1.15.0
 sniffio==1.2.0
 testpath==0.4.4
