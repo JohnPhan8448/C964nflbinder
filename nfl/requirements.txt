@@ -1,30 +1,3 @@
-Skip to content
-Product
-Solutions
-Open Source
-Pricing
-Search
-Sign in
-Sign up
-wduangoupa
-/
-Capstone
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Capstone/requirements.txt
-@wduangoupa
-wduangoupa Update requirements.txt
-Latest commit f301164 on Jun 28, 2021
- History
- 1 contributor
-76 lines (76 sloc)  1.37 KB
-
 anyio==3.2.1
 argon2-cffi==20.1.0
 async-generator==1.10
