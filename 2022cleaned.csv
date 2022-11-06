@@ -1,0 +1,273 @@
+Week,Date,away,away_score,Tm_score,Tm_x,won,result,W_x,L_x,T_x,W-L%_x,PF_x,PA_x,PD_x,MoV_x,SoS_x,SRS_x,OSRS_x,DSRS_x,Tm_y,W_y,L_y,T_y,W-L%_y,PF_y,PA_y,PD_y,MoV_y,SoS_y,SRS_y,OSRS_y,DSRS_y
+1,9/8/2022,Buffalo Bills,31,10,Los Angeles Rams,FALSE,0,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+1,9/11/2022,Philadelphia Eagles,38,35,Detroit Lions,FALSE,0,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9,Philadelphia Eagles,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2
+1,9/11/2022,Pittsburgh Steelers,23,20,Cincinnati Bengals,FALSE,0,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+1,9/11/2022,Jacksonville Jaguars,22,28,Washington Commanders,TRUE,1,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+1,9/11/2022,New England Patriots,7,20,Miami Dolphins,TRUE,1,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+1,9/11/2022,Baltimore Ravens,24,9,New York Jets,FALSE,0,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4,Baltimore Ravens,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2
+1,9/11/2022,San Francisco 49ers,10,19,Chicago Bears,TRUE,1,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,San Francisco 49ers,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5
+1,9/11/2022,Kansas City Chiefs,44,21,Arizona Cardinals,FALSE,0,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+1,9/11/2022,Green Bay Packers,7,23,Minnesota Vikings,TRUE,1,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,Green Bay Packers,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3
+1,9/11/2022,New York Giants,21,20,Tennessee Titans,FALSE,0,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,New York Giants,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4
+1,9/11/2022,Cleveland Browns,26,24,Carolina Panthers,FALSE,0,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+1,9/11/2022,Las Vegas Raiders,19,24,Los Angeles Chargers,TRUE,1,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Las Vegas Raiders,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2
+1,9/11/2022,Tampa Bay Buccaneers,19,3,Dallas Cowboys,FALSE,0,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+1,9/11/2022,Indianapolis Colts,20,20,Houston Texans,FALSE,0,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+1,9/11/2022,New Orleans Saints,27,26,Atlanta Falcons,FALSE,0,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+1,9/12/2022,Denver Broncos,16,17,Seattle Seahawks,TRUE,1,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+2,9/15/2022,Los Angeles Chargers,24,27,Kansas City Chiefs,TRUE,1,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+2,9/18/2022,Houston Texans,9,16,Denver Broncos,TRUE,1,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+2,9/18/2022,New York Jets,31,30,Cleveland Browns,FALSE,0,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+2,9/18/2022,New England Patriots,17,14,Pittsburgh Steelers,FALSE,0,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+2,9/18/2022,Cincinnati Bengals,17,20,Dallas Cowboys,TRUE,1,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+2,9/18/2022,Tampa Bay Buccaneers,20,10,New Orleans Saints,FALSE,0,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+2,9/18/2022,Carolina Panthers,16,19,New York Giants,TRUE,1,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Carolina Panthers,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1
+2,9/18/2022,Washington Commanders,27,36,Detroit Lions,TRUE,1,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9,Washington Commanders,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1
+2,9/18/2022,Seattle Seahawks,7,27,San Francisco 49ers,TRUE,1,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Seattle Seahawks,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4
+2,9/18/2022,Chicago Bears,10,27,Green Bay Packers,TRUE,1,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,Chicago Bears,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7
+2,9/18/2022,Indianapolis Colts,0,24,Jacksonville Jaguars,TRUE,1,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+2,9/18/2022,Miami Dolphins,42,38,Baltimore Ravens,FALSE,0,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Miami Dolphins,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1
+2,9/18/2022,Arizona Cardinals,29,23,Las Vegas Raiders,FALSE,0,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2
+2,9/18/2022,Atlanta Falcons,27,31,Los Angeles Rams,TRUE,1,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+2,9/19/2022,Minnesota Vikings,7,24,Philadelphia Eagles,TRUE,1,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,Minnesota Vikings,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5
+2,9/19/2022,Tennessee Titans,7,41,Buffalo Bills,TRUE,1,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2,Tennessee Titans,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8
+3,9/22/2022,Pittsburgh Steelers,17,29,Cleveland Browns,TRUE,1,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+3,9/25/2022,Detroit Lions,24,28,Minnesota Vikings,TRUE,1,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+3,9/25/2022,Philadelphia Eagles,24,8,Washington Commanders,FALSE,0,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,Philadelphia Eagles,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2
+3,9/25/2022,Baltimore Ravens,37,26,New England Patriots,FALSE,0,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4,Baltimore Ravens,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2
+3,9/25/2022,Cincinnati Bengals,27,12,New York Jets,FALSE,0,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+3,9/25/2022,Kansas City Chiefs,17,20,Indianapolis Colts,TRUE,1,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+3,9/25/2022,Houston Texans,20,23,Chicago Bears,TRUE,1,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+3,9/25/2022,Las Vegas Raiders,22,24,Tennessee Titans,TRUE,1,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,Las Vegas Raiders,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2
+3,9/25/2022,Jacksonville Jaguars,38,10,Los Angeles Chargers,FALSE,0,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+3,9/25/2022,Green Bay Packers,14,12,Tampa Bay Buccaneers,FALSE,0,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9,Green Bay Packers,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3
+3,9/25/2022,Atlanta Falcons,27,23,Seattle Seahawks,FALSE,0,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+3,9/25/2022,San Francisco 49ers,10,11,Denver Broncos,TRUE,1,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,San Francisco 49ers,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5
+3,9/25/2022,New Orleans Saints,14,22,Carolina Panthers,TRUE,1,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+3,9/25/2022,Buffalo Bills,19,21,Miami Dolphins,TRUE,1,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+3,9/25/2022,Los Angeles Rams,20,12,Arizona Cardinals,FALSE,0,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,Los Angeles Rams,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4
+3,9/26/2022,Dallas Cowboys,23,16,New York Giants,FALSE,0,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
+4,9/29/2022,Miami Dolphins,15,27,Cincinnati Bengals,TRUE,1,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6,Miami Dolphins,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1
+4,10/2/2022,Tennessee Titans,24,17,Indianapolis Colts,FALSE,0,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1,Tennessee Titans,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8
+4,10/2/2022,Los Angeles Chargers,34,24,Houston Texans,FALSE,0,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+4,10/2/2022,New England Patriots,24,27,Green Bay Packers,TRUE,1,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+4,10/2/2022,Kansas City Chiefs,41,31,Tampa Bay Buccaneers,FALSE,0,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+4,10/2/2022,New York Jets,24,20,Pittsburgh Steelers,FALSE,0,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+4,10/2/2022,Denver Broncos,23,32,Las Vegas Raiders,TRUE,1,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+4,10/2/2022,Jacksonville Jaguars,21,29,Philadelphia Eagles,TRUE,1,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+4,10/2/2022,Chicago Bears,12,20,New York Giants,TRUE,1,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Chicago Bears,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7
+4,10/2/2022,Minnesota Vikings,28,25,New Orleans Saints,FALSE,0,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1,Minnesota Vikings,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5
+4,10/2/2022,Arizona Cardinals,26,16,Carolina Panthers,FALSE,0,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2
+4,10/2/2022,Buffalo Bills,23,20,Baltimore Ravens,FALSE,0,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+4,10/2/2022,Cleveland Browns,20,23,Atlanta Falcons,TRUE,1,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+4,10/2/2022,Washington Commanders,10,25,Dallas Cowboys,TRUE,1,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,Washington Commanders,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1
+4,10/2/2022,Seattle Seahawks,48,45,Detroit Lions,FALSE,0,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9,Seattle Seahawks,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4
+4,10/3/2022,Los Angeles Rams,9,24,San Francisco 49ers,TRUE,1,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Los Angeles Rams,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4
+5,10/6/2022,Indianapolis Colts,12,9,Denver Broncos,FALSE,0,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+5,10/9/2022,Atlanta Falcons,15,21,Tampa Bay Buccaneers,TRUE,1,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+5,10/9/2022,San Francisco 49ers,37,15,Carolina Panthers,FALSE,0,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,San Francisco 49ers,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5
+5,10/9/2022,Tennessee Titans,21,17,Washington Commanders,FALSE,0,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,Tennessee Titans,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8
+5,10/9/2022,Houston Texans,13,6,Jacksonville Jaguars,FALSE,0,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+5,10/9/2022,Miami Dolphins,17,40,New York Jets,TRUE,1,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4,Miami Dolphins,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1
+5,10/9/2022,New York Giants,27,22,Green Bay Packers,FALSE,0,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,New York Giants,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4
+5,10/9/2022,Pittsburgh Steelers,3,38,Buffalo Bills,TRUE,1,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+5,10/9/2022,Los Angeles Chargers,30,28,Cleveland Browns,FALSE,0,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+5,10/9/2022,Cincinnati Bengals,17,19,Baltimore Ravens,TRUE,1,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+5,10/9/2022,Dallas Cowboys,22,10,Los Angeles Rams,FALSE,0,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
+5,10/9/2022,Philadelphia Eagles,20,17,Arizona Cardinals,FALSE,0,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,Philadelphia Eagles,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2
+5,10/9/2022,Seattle Seahawks,32,39,New Orleans Saints,TRUE,1,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1,Seattle Seahawks,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4
+5,10/9/2022,Detroit Lions,0,29,New England Patriots,TRUE,1,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+5,10/9/2022,Chicago Bears,22,29,Minnesota Vikings,TRUE,1,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,Chicago Bears,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7
+5,10/10/2022,Las Vegas Raiders,29,30,Kansas City Chiefs,TRUE,1,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8,Las Vegas Raiders,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2
+6,10/13/2022,Washington Commanders,12,7,Chicago Bears,FALSE,0,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,Washington Commanders,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1
+6,10/16/2022,Dallas Cowboys,17,26,Philadelphia Eagles,TRUE,1,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
+6,10/16/2022,Tampa Bay Buccaneers,18,20,Pittsburgh Steelers,TRUE,1,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+6,10/16/2022,Arizona Cardinals,9,19,Seattle Seahawks,TRUE,1,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2
+6,10/16/2022,New England Patriots,38,15,Cleveland Browns,FALSE,0,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+6,10/16/2022,Jacksonville Jaguars,27,34,Indianapolis Colts,TRUE,1,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+6,10/16/2022,Buffalo Bills,24,20,Kansas City Chiefs,FALSE,0,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+6,10/16/2022,Baltimore Ravens,20,24,New York Giants,TRUE,1,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Baltimore Ravens,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2
+6,10/16/2022,San Francisco 49ers,14,28,Atlanta Falcons,TRUE,1,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3,San Francisco 49ers,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5
+6,10/16/2022,Cincinnati Bengals,30,26,New Orleans Saints,FALSE,0,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+6,10/16/2022,Carolina Panthers,10,24,Los Angeles Rams,TRUE,1,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Carolina Panthers,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1
+6,10/16/2022,New York Jets,27,10,Green Bay Packers,FALSE,0,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+6,10/16/2022,Minnesota Vikings,24,16,Miami Dolphins,FALSE,0,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,Minnesota Vikings,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5
+6,10/17/2022,Denver Broncos,16,19,Los Angeles Chargers,TRUE,1,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+7,10/20/2022,New Orleans Saints,34,42,Arizona Cardinals,TRUE,1,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+7,10/23/2022,Seattle Seahawks,37,23,Los Angeles Chargers,FALSE,0,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Seattle Seahawks,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4
+7,10/23/2022,New York Jets,16,9,Denver Broncos,FALSE,0,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+7,10/23/2022,Tampa Bay Buccaneers,3,21,Carolina Panthers,TRUE,1,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+7,10/23/2022,Atlanta Falcons,17,35,Cincinnati Bengals,TRUE,1,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+7,10/23/2022,Houston Texans,20,38,Las Vegas Raiders,TRUE,1,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+7,10/23/2022,New York Giants,23,17,Jacksonville Jaguars,FALSE,0,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1,New York Giants,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4
+7,10/23/2022,Cleveland Browns,20,23,Baltimore Ravens,TRUE,1,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+7,10/23/2022,Detroit Lions,6,24,Dallas Cowboys,TRUE,1,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+7,10/23/2022,Kansas City Chiefs,44,23,San Francisco 49ers,FALSE,0,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+7,10/23/2022,Pittsburgh Steelers,10,16,Miami Dolphins,TRUE,1,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+7,10/23/2022,Indianapolis Colts,10,19,Tennessee Titans,TRUE,1,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+7,10/23/2022,Green Bay Packers,21,23,Washington Commanders,TRUE,1,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,Green Bay Packers,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3
+7,10/24/2022,Chicago Bears,33,14,New England Patriots,FALSE,0,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4,Chicago Bears,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7
+8,10/27/2022,Baltimore Ravens,27,22,Tampa Bay Buccaneers,FALSE,0,3,4,0,0.429,124,124,0,0,-0.5,-0.5,-5.1,4.6,Baltimore Ravens,4,3,0,0.571,181,161,20,2.9,4.2,7.1,6.3,0.8
+8,10/30/2022,Pittsburgh Steelers,13,35,Philadelphia Eagles,TRUE,1,6,0,0,1,161,105,56,9.3,-0.9,8.5,5,3.5,Pittsburgh Steelers,2,5,0,0.286,107,162,-55,-7.9,4.1,-3.8,-3.7,0
+8,10/30/2022,Arizona Cardinals,26,34,Minnesota Vikings,TRUE,1,5,1,0,0.833,139,118,21,3.5,-0.7,2.8,-1.2,4,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,0,-2.9,-2.1,-0.8
+8,10/30/2022,Las Vegas Raiders,0,24,New Orleans Saints,TRUE,1,2,5,0,0.286,175,200,-25,-3.6,-0.9,-4.4,3.7,-8.2,Las Vegas Raiders,2,4,0,0.333,163,150,13,2.2,-2.1,0.1,4.2,-4.1
+8,10/30/2022,Denver Broncos,21,17,Jacksonville Jaguars,FALSE,0,2,5,0,0.286,155,137,18,2.6,-1.7,0.8,0.7,0.1,Denver Broncos,2,5,0,0.286,100,115,-15,-2.1,-2.5,-4.7,-9.1,4.4
+8,10/30/2022,Miami Dolphins,31,27,Detroit Lions,FALSE,0,1,5,0,0.167,146,194,-48,-8,1.4,-6.6,4.4,-11.1,Miami Dolphins,4,3,0,0.571,147,165,-18,-2.6,4.9,2.3,2.6,-0.3
+8,10/30/2022,Carolina Panthers,34,37,Atlanta Falcons,TRUE,1,3,4,0,0.429,163,171,-8,-1.1,-0.8,-2,0.5,-2.4,Carolina Panthers,2,5,0,0.286,124,149,-25,-3.6,-2,-5.5,-5,-0.5
+8,10/30/2022,Tennessee Titans,17,10,Houston Texans,FALSE,0,1,4,1,0.25,106,137,-31,-5.2,-2.1,-7.2,-4,-3.2,Tennessee Titans,4,2,0,0.667,115,128,-13,-2.2,1.5,-0.7,-0.5,-0.2
+8,10/30/2022,New York Giants,13,27,Seattle Seahawks,TRUE,1,4,3,0,0.571,183,186,-3,-0.4,-3.5,-3.9,1.6,-5.5,New York Giants,6,1,0,0.857,150,130,20,2.9,0.2,3,0.7,2.4
+8,10/30/2022,Green Bay Packers,17,27,Buffalo Bills,TRUE,1,5,1,0,0.833,176,81,95,15.8,2.3,18.1,7.3,10.8,Green Bay Packers,3,4,0,0.429,128,146,-18,-2.6,0.3,-2.3,-1.2,-1.1
+8,10/30/2022,New England Patriots,22,17,New York Jets,FALSE,0,5,2,0,0.714,159,137,22,3.1,0.5,3.6,1.5,2.2,New England Patriots,3,4,0,0.429,155,146,9,1.3,-1,0.2,-1.8,2
+8,10/30/2022,San Francisco 49ers,31,14,Los Angeles Rams,FALSE,0,3,3,0,0.5,104,126,-22,-3.7,1.7,-1.9,-1.9,-0.1,San Francisco 49ers,3,4,0,0.429,145,133,12,1.7,-1.5,0.3,-1.8,2.1
+8,10/30/2022,Chicago Bears,29,49,Dallas Cowboys,TRUE,1,5,2,0,0.714,134,104,30,4.3,0.6,4.9,-2.2,7,Chicago Bears,3,4,0,0.429,126,132,-6,-0.9,-0.9,-1.7,-2.7,1
+8,10/30/2022,Washington Commanders,17,16,Indianapolis Colts,FALSE,0,3,3,1,0.5,113,140,-27,-3.9,-0.3,-4.2,-5.8,1.6,Washington Commanders,3,4,0,0.429,125,156,-31,-4.4,0.2,-4.2,-4,-0.2
+8,10/31/2022,Cincinnati Bengals,13,32,Cleveland Browns,TRUE,1,2,5,0,0.286,168,186,-18,-2.6,-1,-3.5,1.9,-5.4,Cincinnati Bengals,4,3,0,0.571,173,132,41,5.9,1.3,7.1,3,4.2
+9,11/3/2022,Philadelphia Eagles,29,17,Houston Texans,FALSE,0,1,5,1,0.214,116,154,-38,-5.4,-3.1,-8.6,-6.2,-2.3,Philadelphia Eagles,7,0,0,1,196,118,78,11.1,-1.4,9.7,5,4.7
+9,11/6/2022,Los Angeles Rams,,,Tampa Bay Buccaneers,FALSE,2,3,5,0,0.375,146,151,-5,-0.6,0.9,0.3,-5.1,5.4,Los Angeles Rams,3,4,0,0.429,118,157,-39,-5.6,1.9,-3.7,-3.7,0
+9,11/6/2022,Green Bay Packers,,,Detroit Lions,FALSE,2,1,6,0,0.143,173,225,-52,-7.4,2.3,-5.2,4.5,-9.6,Green Bay Packers,3,5,0,0.375,145,173,-28,-3.5,2.2,-1.3,-0.7,-0.5
+9,11/6/2022,Tennessee Titans,,,Kansas City Chiefs,FALSE,2,5,2,0,0.714,223,172,51,7.3,0.5,7.8,11.4,-3.6,Tennessee Titans,5,2,0,0.714,132,138,-6,-0.9,-1.2,-2.1,-1.5,-0.6
+9,11/6/2022,Miami Dolphins,,,Chicago Bears,FALSE,2,3,5,0,0.375,155,181,-26,-3.3,0.5,-2.8,-0.4,-2.3,Miami Dolphins,5,3,0,0.625,178,192,-14,-1.8,3,1.3,1.5,-0.2
+9,11/6/2022,Carolina Panthers,,,Cincinnati Bengals,FALSE,2,4,4,0,0.5,186,164,22,2.8,1.5,4.3,0.8,3.5,Carolina Panthers,2,6,0,0.25,158,186,-28,-3.5,-1.1,-4.6,-2.5,-2.1
+9,11/6/2022,Buffalo Bills,,,New York Jets,FALSE,2,5,3,0,0.625,176,159,17,2.1,0.4,2.5,0.8,1.8,Buffalo Bills,6,1,0,0.857,203,98,105,15,0.8,15.8,6.2,9.5
+9,11/6/2022,Los Angeles Chargers,,,Atlanta Falcons,FALSE,2,4,4,0,0.5,200,205,-5,-0.6,-0.4,-1,3.2,-4.3,Los Angeles Chargers,4,3,0,0.571,164,189,-25,-3.6,-1.7,-5.2,-0.4,-4.9
+9,11/6/2022,Indianapolis Colts,,,New England Patriots,FALSE,2,4,4,0,0.5,177,163,14,1.8,-0.1,1.7,-1.5,3.2,Indianapolis Colts,3,4,1,0.438,129,157,-28,-3.5,-1.8,-5.3,-6.4,1.1
+9,11/6/2022,Seattle Seahawks,,,Arizona Cardinals,FALSE,2,3,5,0,0.375,182,210,-28,-3.5,1,-2.5,-0.1,-2.4,Seattle Seahawks,5,3,0,0.625,210,199,11,1.4,-1.9,-0.6,2.6,-3.2
+9,11/6/2022,Minnesota Vikings,,,Washington Commanders,FALSE,2,4,4,0,0.5,142,172,-30,-3.8,-0.3,-4,-4.7,0.7,Minnesota Vikings,6,1,0,0.857,173,144,29,4.1,-0.5,3.6,0.7,2.9
+9,11/6/2022,Las Vegas Raiders,,,Jacksonville Jaguars,FALSE,2,2,6,0,0.25,172,158,14,1.8,-2.7,-1,0.6,-1.5,Las Vegas Raiders,2,5,0,0.286,163,174,-11,-1.6,-2,-3.5,-0.4,-3.2
+9,11/7/2022,Baltimore Ravens,,,New Orleans Saints,FALSE,2,3,5,0,0.375,199,200,-1,-0.1,-0.9,-1.1,2.3,-3.4,Baltimore Ravens,5,3,0,0.625,208,183,25,3.1,3.3,6.4,7,-0.6
+10,11/10/2022,Atlanta Falcons,,,Carolina Panthers,FALSE,2,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+10,11/13/2022,Jacksonville Jaguars,,,Kansas City Chiefs,FALSE,2,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+10,11/13/2022,Seattle Seahawks,,,Tampa Bay Buccaneers,FALSE,2,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9,Seattle Seahawks,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4
+10,11/13/2022,Indianapolis Colts,,,Las Vegas Raiders,FALSE,2,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+10,11/13/2022,Minnesota Vikings,,,Buffalo Bills,FALSE,2,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2,Minnesota Vikings,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5
+10,11/13/2022,Detroit Lions,,,Chicago Bears,FALSE,2,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+10,11/13/2022,Houston Texans,,,New York Giants,FALSE,2,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+10,11/13/2022,Los Angeles Chargers,,,San Francisco 49ers,FALSE,2,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+10,11/13/2022,Cleveland Browns,,,Miami Dolphins,FALSE,2,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+10,11/13/2022,Dallas Cowboys,,,Green Bay Packers,FALSE,2,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
+10,11/13/2022,Arizona Cardinals,,,Los Angeles Rams,FALSE,2,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2
+10,11/13/2022,New Orleans Saints,,,Pittsburgh Steelers,FALSE,2,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+10,11/13/2022,Denver Broncos,,,Tennessee Titans,FALSE,2,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+10,11/14/2022,Washington Commanders,,,Philadelphia Eagles,FALSE,2,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,Washington Commanders,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1
+11,11/17/2022,Tennessee Titans,,,Green Bay Packers,FALSE,2,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,Tennessee Titans,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8
+11,11/20/2022,Philadelphia Eagles,,,Indianapolis Colts,FALSE,2,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1,Philadelphia Eagles,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2
+11,11/20/2022,Cleveland Browns,,,Buffalo Bills,FALSE,2,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+11,11/20/2022,Los Angeles Rams,,,New Orleans Saints,FALSE,2,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1,Los Angeles Rams,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4
+11,11/20/2022,Las Vegas Raiders,,,Denver Broncos,FALSE,2,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,Las Vegas Raiders,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2
+11,11/20/2022,Washington Commanders,,,Houston Texans,FALSE,2,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1,Washington Commanders,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1
+11,11/20/2022,Chicago Bears,,,Atlanta Falcons,FALSE,2,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3,Chicago Bears,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7
+11,11/20/2022,Detroit Lions,,,New York Giants,FALSE,2,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+11,11/20/2022,New York Jets,,,New England Patriots,FALSE,2,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+11,11/20/2022,Kansas City Chiefs,,,Los Angeles Chargers,FALSE,2,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+11,11/20/2022,Dallas Cowboys,,,Minnesota Vikings,FALSE,2,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
+11,11/20/2022,Cincinnati Bengals,,,Pittsburgh Steelers,FALSE,2,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+11,11/20/2022,Carolina Panthers,,,Baltimore Ravens,FALSE,2,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Carolina Panthers,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1
+11,11/21/2022,San Francisco 49ers,,,Arizona Cardinals,FALSE,2,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,San Francisco 49ers,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5
+12,11/24/2022,New York Giants,,,Dallas Cowboys,FALSE,2,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,New York Giants,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4
+12,11/24/2022,Buffalo Bills,,,Detroit Lions,FALSE,2,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+12,11/24/2022,New England Patriots,,,Minnesota Vikings,FALSE,2,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+12,11/27/2022,Baltimore Ravens,,,Jacksonville Jaguars,FALSE,2,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1,Baltimore Ravens,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2
+12,11/27/2022,Green Bay Packers,,,Philadelphia Eagles,FALSE,2,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,Green Bay Packers,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3
+12,11/27/2022,Atlanta Falcons,,,Washington Commanders,FALSE,2,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+12,11/27/2022,Los Angeles Rams,,,Kansas City Chiefs,FALSE,2,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8,Los Angeles Rams,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4
+12,11/27/2022,Cincinnati Bengals,,,Tennessee Titans,FALSE,2,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+12,11/27/2022,Las Vegas Raiders,,,Seattle Seahawks,FALSE,2,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,Las Vegas Raiders,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2
+12,11/27/2022,New Orleans Saints,,,San Francisco 49ers,FALSE,2,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+12,11/27/2022,Tampa Bay Buccaneers,,,Cleveland Browns,FALSE,2,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+12,11/27/2022,Los Angeles Chargers,,,Arizona Cardinals,FALSE,2,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+12,11/27/2022,Denver Broncos,,,Carolina Panthers,FALSE,2,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+12,11/27/2022,Chicago Bears,,,New York Jets,FALSE,2,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4,Chicago Bears,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7
+12,11/27/2022,Houston Texans,,,Miami Dolphins,FALSE,2,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+12,11/28/2022,Pittsburgh Steelers,,,Indianapolis Colts,FALSE,2,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+13,12/1/2022,Buffalo Bills,,,New England Patriots,FALSE,2,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+13,12/4/2022,Tennessee Titans,,,Philadelphia Eagles,FALSE,2,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,Tennessee Titans,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8
+13,12/4/2022,Seattle Seahawks,,,Los Angeles Rams,FALSE,2,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Seattle Seahawks,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4
+13,12/4/2022,Denver Broncos,,,Baltimore Ravens,FALSE,2,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+13,12/4/2022,Cleveland Browns,,,Houston Texans,FALSE,2,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+13,12/4/2022,Green Bay Packers,,,Chicago Bears,FALSE,2,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,Green Bay Packers,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3
+13,12/4/2022,Miami Dolphins,,,San Francisco 49ers,FALSE,2,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Miami Dolphins,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1
+13,12/4/2022,Pittsburgh Steelers,,,Atlanta Falcons,FALSE,2,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+13,12/4/2022,Indianapolis Colts,,,Dallas Cowboys,FALSE,2,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+13,12/4/2022,Kansas City Chiefs,,,Cincinnati Bengals,FALSE,2,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+13,12/4/2022,Washington Commanders,,,New York Giants,FALSE,2,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Washington Commanders,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1
+13,12/4/2022,Los Angeles Chargers,,,Las Vegas Raiders,FALSE,2,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+13,12/4/2022,Jacksonville Jaguars,,,Detroit Lions,FALSE,2,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+13,12/4/2022,New York Jets,,,Minnesota Vikings,FALSE,2,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+13,12/5/2022,New Orleans Saints,,,Tampa Bay Buccaneers,FALSE,2,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+14,12/8/2022,Las Vegas Raiders,,,Los Angeles Rams,FALSE,2,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Las Vegas Raiders,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2
+14,12/11/2022,Tampa Bay Buccaneers,,,San Francisco 49ers,FALSE,2,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+14,12/11/2022,Philadelphia Eagles,,,New York Giants,FALSE,2,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Philadelphia Eagles,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2
+14,12/11/2022,Jacksonville Jaguars,,,Tennessee Titans,FALSE,2,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+14,12/11/2022,Carolina Panthers,,,Seattle Seahawks,FALSE,2,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,Carolina Panthers,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1
+14,12/11/2022,Baltimore Ravens,,,Pittsburgh Steelers,FALSE,2,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,Baltimore Ravens,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2
+14,12/11/2022,Minnesota Vikings,,,Detroit Lions,FALSE,2,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9,Minnesota Vikings,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5
+14,12/11/2022,Cleveland Browns,,,Cincinnati Bengals,FALSE,2,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+14,12/11/2022,Kansas City Chiefs,,,Denver Broncos,FALSE,2,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+14,12/11/2022,Miami Dolphins,,,Los Angeles Chargers,FALSE,2,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Miami Dolphins,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1
+14,12/11/2022,New York Jets,,,Buffalo Bills,FALSE,2,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+14,12/11/2022,Houston Texans,,,Dallas Cowboys,FALSE,2,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+14,12/12/2022,New England Patriots,,,Arizona Cardinals,FALSE,2,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+15,12/15/2022,San Francisco 49ers,,,Seattle Seahawks,FALSE,2,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,San Francisco 49ers,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5
+15,12/18/2022,New England Patriots,,,Las Vegas Raiders,FALSE,2,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+15,12/18/2022,Detroit Lions,,,New York Jets,FALSE,2,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+15,12/18/2022,Atlanta Falcons,,,New Orleans Saints,FALSE,2,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+15,12/18/2022,Pittsburgh Steelers,,,Carolina Panthers,FALSE,2,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+15,12/18/2022,Dallas Cowboys,,,Jacksonville Jaguars,FALSE,2,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
+15,12/18/2022,Indianapolis Colts,,,Minnesota Vikings,FALSE,2,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+15,12/18/2022,Philadelphia Eagles,,,Chicago Bears,FALSE,2,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,Philadelphia Eagles,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2
+15,12/18/2022,Tennessee Titans,,,Los Angeles Chargers,FALSE,2,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Tennessee Titans,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8
+15,12/18/2022,Baltimore Ravens,,,Cleveland Browns,FALSE,2,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1,Baltimore Ravens,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2
+15,12/18/2022,Kansas City Chiefs,,,Houston Texans,FALSE,2,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+15,12/18/2022,Miami Dolphins,,,Buffalo Bills,FALSE,2,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2,Miami Dolphins,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1
+15,12/18/2022,Arizona Cardinals,,,Denver Broncos,FALSE,2,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2
+15,12/18/2022,New York Giants,,,Washington Commanders,FALSE,2,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,New York Giants,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4
+15,12/18/2022,Cincinnati Bengals,,,Tampa Bay Buccaneers,FALSE,2,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+15,12/19/2022,Los Angeles Rams,,,Green Bay Packers,FALSE,2,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,Los Angeles Rams,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4
+16,12/22/2022,Jacksonville Jaguars,,,New York Jets,FALSE,2,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+16,12/24/2022,New York Giants,,,Minnesota Vikings,FALSE,2,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5,New York Giants,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4
+16,12/24/2022,Seattle Seahawks,,,Kansas City Chiefs,FALSE,2,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8,Seattle Seahawks,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4
+16,12/24/2022,Philadelphia Eagles,,,Dallas Cowboys,FALSE,2,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8,Philadelphia Eagles,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2
+16,12/24/2022,Cincinnati Bengals,,,New England Patriots,FALSE,2,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4,Cincinnati Bengals,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6
+16,12/24/2022,New Orleans Saints,,,Cleveland Browns,FALSE,2,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+16,12/24/2022,Buffalo Bills,,,Chicago Bears,FALSE,2,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+16,12/24/2022,Atlanta Falcons,,,Baltimore Ravens,FALSE,2,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Atlanta Falcons,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3
+16,12/24/2022,Las Vegas Raiders,,,Pittsburgh Steelers,FALSE,2,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,Las Vegas Raiders,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2
+16,12/24/2022,Detroit Lions,,,Carolina Panthers,FALSE,2,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+16,12/24/2022,Houston Texans,,,Tennessee Titans,FALSE,2,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+16,12/24/2022,Washington Commanders,,,San Francisco 49ers,FALSE,2,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Washington Commanders,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1
+16,12/25/2022,Tampa Bay Buccaneers,,,Arizona Cardinals,FALSE,2,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+16,12/25/2022,Denver Broncos,,,Los Angeles Rams,FALSE,2,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+16,12/25/2022,Green Bay Packers,,,Miami Dolphins,FALSE,2,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,Green Bay Packers,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3
+16,12/26/2022,Los Angeles Chargers,,,Indianapolis Colts,FALSE,2,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+17,12/29/2022,Dallas Cowboys,,,Tennessee Titans,FALSE,2,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
+17,1/1/2023,New Orleans Saints,,,Philadelphia Eagles,FALSE,2,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,New Orleans Saints,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1
+17,1/1/2023,New York Jets,,,Seattle Seahawks,FALSE,2,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+17,1/1/2023,Indianapolis Colts,,,New York Giants,FALSE,2,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4,Indianapolis Colts,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1
+17,1/1/2023,Jacksonville Jaguars,,,Houston Texans,FALSE,2,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1,Jacksonville Jaguars,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1
+17,1/1/2023,Minnesota Vikings,,,Green Bay Packers,FALSE,2,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,Minnesota Vikings,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5
+17,1/1/2023,Chicago Bears,,,Detroit Lions,FALSE,2,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9,Chicago Bears,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7
+17,1/1/2023,Miami Dolphins,,,New England Patriots,FALSE,2,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4,Miami Dolphins,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1
+17,1/1/2023,Pittsburgh Steelers,,,Baltimore Ravens,FALSE,2,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2,Pittsburgh Steelers,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9
+17,1/1/2023,Arizona Cardinals,,,Atlanta Falcons,FALSE,2,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2
+17,1/1/2023,Denver Broncos,,,Kansas City Chiefs,FALSE,2,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8,Denver Broncos,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4
+17,1/1/2023,San Francisco 49ers,,,Las Vegas Raiders,FALSE,2,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,San Francisco 49ers,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5
+17,1/1/2023,Los Angeles Rams,,,Los Angeles Chargers,FALSE,2,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7,Los Angeles Rams,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4
+17,1/1/2023,Carolina Panthers,,,Tampa Bay Buccaneers,FALSE,2,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9,Carolina Panthers,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1
+17,1/1/2023,Cleveland Browns,,,Washington Commanders,FALSE,2,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+17,1/2/2023,Buffalo Bills,,,Cincinnati Bengals,FALSE,2,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6,Buffalo Bills,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2
+18,1/8/2023,Los Angeles Rams,,,Seattle Seahawks,FALSE,2,3,3,0,0.5,146,163,-17,-2.8,-3.3,-6.1,-0.7,-5.4,Los Angeles Rams,3,3,0,0.5,104,126,-22,-3.7,0.8,-2.9,-2.5,-0.4
+18,1/8/2023,Baltimore Ravens,,,Cincinnati Bengals,FALSE,2,3,3,0,0.5,138,115,23,3.8,2.5,6.4,0.4,6,Baltimore Ravens,3,3,0,0.5,158,141,17,2.8,6.3,9.2,9.4,-0.2
+18,1/8/2023,Detroit Lions,,,Green Bay Packers,FALSE,2,3,3,0,0.5,107,123,-16,-2.7,1.3,-1.4,-0.1,-1.3,Detroit Lions,1,4,0,0.2,140,170,-30,-6,0.6,-5.4,8.5,-13.9
+18,1/8/2023,Minnesota Vikings,,,Chicago Bears,FALSE,2,2,4,0,0.333,93,118,-25,-4.2,-1.2,-5.4,-4.7,-0.7,Minnesota Vikings,5,1,0,0.833,139,118,21,3.5,-0.9,2.6,-2.5,5
+18,1/8/2023,Tennessee Titans,,,Jacksonville Jaguars,FALSE,2,2,4,0,0.333,138,114,24,4,-1.6,2.4,2.3,0.1,Tennessee Titans,3,2,0,0.6,96,118,-22,-4.4,1.8,-2.6,0.2,-2.8
+18,1/8/2023,New England Patriots,,,Buffalo Bills,FALSE,2,5,1,0,0.833,176,81,95,15.8,2.2,18,5.8,12.2,New England Patriots,3,3,0,0.5,141,113,28,4.7,0.2,4.9,-2.5,7.4
+18,1/8/2023,Kansas City Chiefs,,,Las Vegas Raiders,FALSE,2,1,4,0,0.2,125,130,-5,-1,-1.5,-2.5,1.7,-4.2,Kansas City Chiefs,4,2,0,0.667,179,149,30,5,1.2,6.2,10.1,-3.8
+18,1/8/2023,Houston Texans,,,Indianapolis Colts,FALSE,2,3,2,1,0.583,103,121,-18,-3,-0.2,-3.2,-5.3,2.1,Houston Texans,1,3,1,0.3,86,99,-13,-2.6,-2.5,-5.1,-4,-1.1
+18,1/8/2023,New York Giants,,,Philadelphia Eagles,FALSE,2,6,0,0,1,161,105,56,9.3,-1.1,8.2,4,4.2,New York Giants,5,1,0,0.833,127,113,14,2.3,-1.5,0.8,-1.6,2.4
+18,1/8/2023,Arizona Cardinals,,,San Francisco 49ers,FALSE,2,3,3,0,0.5,122,89,33,5.5,-4.6,0.9,-2.5,3.5,Arizona Cardinals,3,4,0,0.429,156,176,-20,-2.9,-1.9,-4.8,-2.7,-2
+18,1/8/2023,Tampa Bay Buccaneers,,,Atlanta Falcons,FALSE,2,3,3,0,0.5,146,136,10,1.7,-2.4,-0.7,0.6,-1.3,Tampa Bay Buccaneers,3,3,0,0.5,121,103,18,3,0,3,-3.9,6.9
+18,1/8/2023,Los Angeles Chargers,,,Denver Broncos,FALSE,2,2,4,0,0.333,91,99,-8,-1.3,-3.2,-4.5,-7.9,3.4,Los Angeles Chargers,4,2,0,0.667,141,152,-11,-1.8,-1.3,-3.1,-0.4,-2.7
+18,1/8/2023,Carolina Panthers,,,New Orleans Saints,FALSE,2,2,5,0,0.286,175,200,-25,-3.6,-1.6,-5.1,4,-9.1,Carolina Panthers,1,5,0,0.167,103,146,-43,-7.2,-2.9,-10.1,-7,-3.1
+18,1/8/2023,New York Jets,,,Miami Dolphins,FALSE,2,3,3,0,0.5,131,155,-24,-4,7.6,3.6,5.7,-2.1,New York Jets,4,2,0,0.667,143,128,15,2.5,1.8,4.3,0.9,3.4
+18,1/8/2023,Cleveland Browns,,,Pittsburgh Steelers,FALSE,2,2,4,0,0.333,97,146,-49,-8.2,5.4,-2.8,-0.8,-1.9,Cleveland Browns,2,4,0,0.333,148,163,-15,-2.5,-1.6,-4.1,3,-7.1
+18,1/8/2023,Dallas Cowboys,,,Washington Commanders,FALSE,2,2,4,0,0.333,102,135,-33,-5.5,0.2,-5.3,-6.4,1,Dallas Cowboys,4,2,0,0.667,110,98,12,2,1.7,3.7,-0.1,3.8
